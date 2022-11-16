@@ -1,0 +1,53 @@
+2022-10-29 21:10:25,708 root INFO the number entered by user is 3 and 0 
+2022-10-29 21:10:57,084 root INFO the number entered by user is 20 and 4 
+INFO 2022-10-29 21:11:35,193 root the number entered by user is 20 and 4 
+INFO 2022-10-29 21:20:10,691 root the number entered by user is 20 and 4 
+INFO 2022-10-29 21:20:10,691 root We are in to funciton
+INFO 2022-10-29 21:20:10,691 root completed the div
+INFO 2022-10-29 21:20:47,868 root the number entered by user is 20 and 0 
+INFO 2022-10-29 21:20:47,868 root We are in to funciton
+ERROR 2022-10-29 21:20:47,868 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\darsh\PycharmProjects\ineuron\004 Logging.py", line 8, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2022-10-29 21:26:01,064 root the number entered by user is 20 and 5 
+INFO 2022-10-29 21:26:01,064 root We are in to funciton
+INFO 2022-10-29 21:26:01,064 root completed the div
+INFO 2022-10-29 21:26:01,064 root  final output 4 
+INFO 2022-10-29 21:37:15,912 root the number entered by user is 20 and 5 
+INFO 2022-10-29 21:37:15,912 root We are in to funciton
+INFO 2022-10-29 21:37:15,912 root completed the div
+INFO 2022-10-29 21:37:15,912 root  final output 4 
+INFO 2022-11-13 18:14:03,096 root the number entered by user is 20 and 5 
+INFO 2022-11-13 18:14:03,104 root We are in to funciton
+INFO 2022-11-13 18:14:03,104 root completed the div
+INFO 2022-11-13 18:14:03,104 root  final output 4 
+INFO 2022-11-13 19:46:31,451 root the number entered by user is 20 and 5 
+INFO 2022-11-13 19:46:31,451 root We are in to funciton
+INFO 2022-11-13 19:46:31,451 root completed the div
+INFO 2022-11-13 19:46:31,451 root  final output 4 
+INFO 2022-11-13 19:47:01,528 root the number entered by user is 20 and 5 
+INFO 2022-11-13 19:47:01,528 root We are in to funciton
+INFO 2022-11-13 19:47:01,528 root completed the div
+INFO 2022-11-13 19:47:01,528 root  final output 4 
+INFO 2022-11-13 19:47:10,256 root the number entered by user is 20 and 5 
+INFO 2022-11-13 19:47:10,256 root We are in to funciton
+INFO 2022-11-13 19:47:10,256 root completed the div
+INFO 2022-11-13 19:47:10,256 root  final output 4 
+INFO 2022-11-13 19:47:23,163 root the number entered by user is 20 and 5 
+INFO 2022-11-13 19:47:23,163 root We are in to funciton
+INFO 2022-11-13 19:47:23,163 root completed the div
+INFO 2022-11-13 19:47:23,163 root  final output 4 
+INFO 2022-11-13 19:47:23,163 root the number entered by user is 20 and 5 
+INFO 2022-11-13 19:47:23,163 root We are in to funciton
+INFO 2022-11-13 19:47:23,163 root completed the div
+INFO 2022-11-13 19:47:23,163 root  final output 4 
+INFO 2022-11-16 17:03:06,135 root the number entered by user is 20 and 5 
+INFO 2022-11-16 17:03:06,136 root We are in to funciton
+INFO 2022-11-16 17:03:06,136 root completed the div
+INFO 2022-11-16 17:03:06,136 root  final output 4 
+INFO 2022-11-16 17:03:06,136 root the number entered by user is 20 and 5 
+INFO 2022-11-16 17:03:06,136 root We are in to funciton
+INFO 2022-11-16 17:03:06,136 root completed the div
+INFO 2022-11-16 17:03:06,136 root  final output 4 

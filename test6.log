@@ -1,0 +1,17 @@
+CRITICAL 2022-10-29 21:54:40,165 root This is a situation for us  
+INFO 2022-10-29 21:55:11,094 root I am trying to read a file 
+CRITICAL 2022-10-29 21:55:11,094 root This is a situation for us  
+ERROR 2022-10-29 21:55:11,095 root [Errno 2] No such file or directory: 'test6.txt' 
+ERROR 2022-10-29 21:55:11,095 root [Errno 2] No such file or directory: 'test6.txt' 
+Traceback (most recent call last):
+  File "C:\Users\darsh\PycharmProjects\ineuron\006 logging.py", line 7, in <module>
+    with open("test6.txt", "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'test6.txt'
+INFO 2022-10-30 08:01:10,624 root I am trying to read a file 
+CRITICAL 2022-10-30 08:01:10,625 root This is a situation for us  
+ERROR 2022-10-30 08:01:10,625 root [Errno 2] No such file or directory: 'test6.txt' 
+ERROR 2022-10-30 08:01:10,631 root [Errno 2] No such file or directory: 'test6.txt' 
+Traceback (most recent call last):
+  File "C:\Users\darsh\PycharmProjects\ineuron\006 logging.py", line 7, in <module>
+    with open("test6.txt", "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'test6.txt'
